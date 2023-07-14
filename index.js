@@ -2,7 +2,7 @@ import { WechatyBuilder } from "wechaty";
 import http from "http";
 import axios from "axios";
 
-const apiKey = "xxx";
+const apiKey = "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";
 const model = "gpt-3.5-turbo";
 
 const wechaty = WechatyBuilder.build();
